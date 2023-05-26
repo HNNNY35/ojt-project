@@ -19,7 +19,13 @@ function App() {
           버튼을 클릭하여 지원 페이지로 이동하십시오.
         </div>
         <br />
-        <button>지원하기</button>
+        <a
+          href="https://forms.gle/EyFkvnree9cGZA5CA"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <button>지원하기</button>
+        </a>
       </div>
     </div>
   );
