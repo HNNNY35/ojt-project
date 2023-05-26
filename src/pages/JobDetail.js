@@ -2,7 +2,7 @@
 // import "./App.css";
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import "./pages/css/jobdetail.css";
+import "./css/jobdetail.css";
 
 function App() {
   return (

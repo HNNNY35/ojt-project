@@ -2,7 +2,7 @@
 // import "./App.css";
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import "./pages/css/joblist.css";
+import "./css/joblist.css";
 
 function App() {
   const jobs = [
