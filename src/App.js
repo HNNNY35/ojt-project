@@ -6,7 +6,7 @@ import "./pages/css/jobdetail.css";
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
       <h1>웹 개발자 모집</h1>
       <hr />
       <br />
